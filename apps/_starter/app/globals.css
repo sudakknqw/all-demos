@@ -1,0 +1,28 @@
+@import "tailwindcss";
+@source "../../../packages/blocks/src";
+
+/*
+ * THEME — the main thing to change per business.
+ * Pick colors and fonts from the business's own photos/logo/Instagram.
+ */
+@theme {
+  --color-brand: #0f766e;
+  --color-on-brand: #ffffff;
+  --color-surface: #ffffff;
+  --color-tint: #f0f7f6;
+  --color-ink: #13201f;
+  --color-muted: #5b6b69;
+  --radius-card: 1rem;
+  --font-display: var(--font-display-family), "Noto Sans Thai", sans-serif;
+  --font-sans: var(--font-body-family), "Noto Sans Thai", sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--color-surface);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+}

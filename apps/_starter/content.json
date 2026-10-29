@@ -1,0 +1,244 @@
+{
+  "business": {
+    "name": "Sample Studio",
+    "category": "pet grooming"
+  },
+  "meta": {
+    "title": {
+      "en": "Sample Studio — Pet grooming in Ari, Bangkok",
+      "th": "Sample Studio — อาบน้ำตัดขนสัตว์เลี้ยง อารีย์ กรุงเทพฯ"
+    },
+    "description": {
+      "en": "Gentle grooming for dogs and cats. Book on LINE.",
+      "th": "บริการอาบน้ำตัดขนสุนัขและแมวอย่างอ่อนโยน จองผ่าน LINE"
+    }
+  },
+  "hero": {
+    "variant": "split",
+    "title": {
+      "en": "Gentle grooming for your dog and cat",
+      "th": "อาบน้ำตัดขนอย่างอ่อนโยนสำหรับน้องหมาและน้องแมว"
+    },
+    "subtitle": {
+      "en": "Calm studio in Ari. One pet at a time, no cages.",
+      "th": "สตูดิโอเงียบสงบในอารีย์ ดูแลทีละตัว ไม่ใช้กรง"
+    },
+    "image": "https://picsum.photos/seed/hero/1200/1200",
+    "cta": {
+      "en": "Book on LINE",
+      "th": "จองผ่าน LINE"
+    }
+  },
+  "about": {
+    "title": {
+      "en": "About us",
+      "th": "เกี่ยวกับเรา"
+    },
+    "text": {
+      "en": "Replace with 2–3 sentences from their Instagram or Google profile.",
+      "th": "แทนที่ด้วยข้อความ 2–3 ประโยคจาก Instagram หรือ Google"
+    },
+    "image": "https://picsum.photos/seed/about/1200/900"
+  },
+  "services": {
+    "title": {
+      "en": "Services & prices",
+      "th": "บริการและราคา"
+    },
+    "intro": {
+      "en": "Prices depend on size and coat.",
+      "th": "ราคาขึ้นอยู่กับขนาดและขน"
+    },
+    "items": [
+      {
+        "name": {
+          "en": "Bath & dry",
+          "th": "อาบน้ำ เป่าแห้ง"
+        },
+        "description": {
+          "en": "Small dogs up to 5 kg",
+          "th": "สุนัขเล็กไม่เกิน 5 กก."
+        },
+        "price": "350 ฿"
+      },
+      {
+        "name": {
+          "en": "Full grooming",
+          "th": "ตัดขนทั้งตัว"
+        },
+        "description": {
+          "en": "Bath, haircut, nails, ears",
+          "th": "อาบน้ำ ตัดขน ตัดเล็บ ทำความสะอาดหู"
+        },
+        "price": "from 700 ฿",
+        "priceIsExample": true
+      },
+      {
+        "name": {
+          "en": "Cat grooming",
+          "th": "อาบน้ำตัดขนแมว"
+        },
+        "price": "900 ฿",
+        "priceIsExample": true
+      },
+      {
+        "name": {
+          "en": "Spa treatment",
+          "th": "สปาขน"
+        },
+        "price": "250 ฿",
+        "priceIsExample": true
+      }
+    ]
+  },
+  "niche": {
+    "type": "features",
+    "title": {
+      "en": "Why owners choose us",
+      "th": "ทำไมเจ้าของเลือกเรา"
+    },
+    "items": [
+      {
+        "icon": "🐾",
+        "title": {
+          "en": "No cages",
+          "th": "ไม่ใช้กรง"
+        },
+        "text": {
+          "en": "Pets wait in a quiet room.",
+          "th": "น้องๆ รอในห้องที่เงียบสงบ"
+        }
+      },
+      {
+        "icon": "🧴",
+        "title": {
+          "en": "Gentle products",
+          "th": "ผลิตภัณฑ์อ่อนโยน"
+        },
+        "text": {
+          "en": "Shampoos for sensitive skin.",
+          "th": "แชมพูสำหรับผิวแพ้ง่าย"
+        }
+      },
+      {
+        "icon": "📸",
+        "title": {
+          "en": "Photo after",
+          "th": "ส่งรูปหลังทำ"
+        },
+        "text": {
+          "en": "We send you photos on LINE.",
+          "th": "ส่งรูปให้ทาง LINE"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "title": {
+      "en": "Gallery",
+      "th": "แกลเลอรี"
+    },
+    "images": [
+      {
+        "src": "https://picsum.photos/seed/g0/900/1100",
+        "alt": {
+          "en": "Our work",
+          "th": "ผลงานของเรา"
+        }
+      },
+      {
+        "src": "https://picsum.photos/seed/g1/900/700",
+        "alt": {
+          "en": "Our work",
+          "th": "ผลงานของเรา"
+        }
+      },
+      {
+        "src": "https://picsum.photos/seed/g2/900/900",
+        "alt": {
+          "en": "Our work",
+          "th": "ผลงานของเรา"
+        }
+      },
+      {
+        "src": "https://picsum.photos/seed/g3/900/1200",
+        "alt": {
+          "en": "Our work",
+          "th": "ผลงานของเรา"
+        }
+      },
+      {
+        "src": "https://picsum.photos/seed/g4/900/800",
+        "alt": {
+          "en": "Our work",
+          "th": "ผลงานของเรา"
+        }
+      },
+      {
+        "src": "https://picsum.photos/seed/g5/900/1000",
+        "alt": {
+          "en": "Our work",
+          "th": "ผลงานของเรา"
+        }
+      }
+    ]
+  },
+  "reviews": {
+    "title": {
+      "en": "What clients say",
+      "th": "รีวิวจากลูกค้า"
+    },
+    "allUrl": "https://maps.google.com",
+    "items": [
+      {
+        "author": "Replace Me",
+        "rating": 5,
+        "text": "Copy a real Google review here, word for word."
+      },
+      {
+        "author": "Replace Me",
+        "rating": 5,
+        "text": "Second real review."
+      },
+      {
+        "author": "Replace Me",
+        "rating": 5,
+        "text": "Third real review."
+      }
+    ]
+  },
+  "contacts": {
+    "title": {
+      "en": "Contacts",
+      "th": "ติดต่อเรา"
+    },
+    "address": {
+      "en": "Soi Ari 1, Phaya Thai, Bangkok",
+      "th": "ซอยอารีย์ 1 พญาไท กรุงเทพฯ"
+    },
+    "hours": [
+      {
+        "days": {
+          "en": "Tue–Sun",
+          "th": "อังคาร–อาทิตย์"
+        },
+        "time": "10:00–19:00"
+      },
+      {
+        "days": {
+          "en": "Mon",
+          "th": "จันทร์"
+        },
+        "time": {
+          "en": "Closed",
+          "th": "ปิด"
+        }
+      }
+    ],
+    "phone": "+66 81 234 5678",
+    "line": "@samplestudio",
+    "instagram": "https://instagram.com/",
+    "mapsUrl": "https://maps.google.com/?q=Ari+Bangkok",
+    "mapsQuery": "Ari, Phaya Thai, Bangkok"
+  }
+}
